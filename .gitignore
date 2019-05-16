@@ -1,0 +1,13 @@
+.vscode
+/obj
+/bin
+/out
+BenchmarkDotNet.Artifacts/*.log
+BenchmarkDotNet.Artifacts/results/*.csv
+BenchmarkDotNet.Artifacts/results/*.html
+*.lock
+*.ide
+.vs/benchmarks/v16/.suo
+.vs/benchmarks/DesignTimeBuild/.dtbcache
+.vs/benchmarks/v16/Server/sqlite3/storage.ide-shm
+.vs/benchmarks/v16/Server/sqlite3/storage.ide-wal
