@@ -11,3 +11,5 @@ BenchmarkDotNet.Artifacts/results/*.html
 .vs/benchmarks/DesignTimeBuild/.dtbcache
 .vs/benchmarks/v16/Server/sqlite3/storage.ide-shm
 .vs/benchmarks/v16/Server/sqlite3/storage.ide-wal
+Properties/PublishProfiles/FolderProfile.pubxml
+Properties/PublishProfiles/FolderProfile.pubxml.user

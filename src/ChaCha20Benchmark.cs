@@ -5,7 +5,7 @@ using BenchmarkDotNet.Attributes;
 
 namespace benchmarks
 {
-    public class Isaac
+    public class ChaCha20Benchmark
     {
         [Benchmark]
         [BenchmarkCategory("PRNG")]
